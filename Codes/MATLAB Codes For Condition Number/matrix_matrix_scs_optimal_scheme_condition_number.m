@@ -9,6 +9,12 @@
 %   One can increase the number of trials to find a smaller worst case 
 %   condition number.
 
+%   This code uses the approach of the following paper-
+%
+%   A. B. Das and A. Ramamoorthy, "Coded sparse matrix computation schemes that leverage 
+%   partial stragglers," 2021 IEEE International Symposium on Information Theory (ISIT), 
+%   2021, pp. 1570-1575, doi: 10.1109/ISIT45174.2021.9518059.
+
 clc
 close all
 clear
