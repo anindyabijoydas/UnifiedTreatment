@@ -2,4 +2,4 @@ In this work, we have introduced schemes that can leverage the partial computati
 
 You can see details in our paper here https://arxiv.org/abs/2109.12070. If you are using these codes for distributed matrix-matrix or matrix-vector muliplication, please cite us-
 
-Anindya Bijoy Das, and Aditya Ramamoorthy, “A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation,” preprint, 2021,[Online] Available: https://arxiv.org/abs/2109.12070.
+**Anindya Bijoy Das, and Aditya Ramamoorthy, “A Unified Treatment of Partial Stragglers and Sparse Matrices in Coded Matrix Computation,” preprint, 2021,[Online] Available: https://arxiv.org/abs/2109.12070.**
